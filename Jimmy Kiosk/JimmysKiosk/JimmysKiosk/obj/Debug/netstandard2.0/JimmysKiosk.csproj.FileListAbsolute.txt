@@ -1,0 +1,88 @@
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.deps.json
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\ref\JimmysKiosk.dll
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.pdb
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.AssemblyReference.cache
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BeveragePage.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BreakfastPage.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\DinnerPage.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\LunchPage.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\PaymentPage.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\ViewCartPage.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfoInputs.cache
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfo.cs
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.CoreCompileInputs.cache
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\refint\JimmysKiosk.dll
+C:\Mobile Project\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.pdb
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.deps.json
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\ref\JimmysKiosk.dll
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.pdb
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BeveragePage.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BreakfastPage.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\DinnerPage.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\LunchPage.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\PaymentPage.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\ViewCartPage.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfo.cs
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\refint\JimmysKiosk.dll
+C:\Users\PC\Downloads\Jimmys Kiosk Original\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.pdb
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.deps.json
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\ref\JimmysKiosk.dll
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.pdb
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.AssemblyReference.cache
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BeveragePage.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BreakfastPage.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\DinnerPage.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\LunchPage.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\PaymentPage.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\ViewCartPage.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfoInputs.cache
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfo.cs
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.CoreCompileInputs.cache
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\refint\JimmysKiosk.dll
+C:\Users\sagun\Downloads\SagunBasnet_Project1_Kiosk\Project1_Group\Jimmys Kiosk Original\JimmysKiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.pdb
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.deps.json
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\ref\JimmysKiosk.dll
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\bin\Debug\netstandard2.0\JimmysKiosk.pdb
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.AssemblyReference.cache
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BeveragePage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\BreakfastPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\DinnerPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\FeedbackListPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\FeedbackPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\LunchPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\OrderListPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\PaymentPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\ThankYouPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\ViewCartPage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfoInputs.cache
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.AssemblyInfo.cs
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.csproj.CoreCompileInputs.cache
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.dll
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\refint\JimmysKiosk.dll
+C:\Users\sagun\Desktop\Jimmy Kiosk\JimmysKiosk\JimmysKiosk\obj\Debug\netstandard2.0\JimmysKiosk.pdb

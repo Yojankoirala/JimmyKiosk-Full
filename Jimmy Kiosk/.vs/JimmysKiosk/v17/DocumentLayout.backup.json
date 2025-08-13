@@ -1,0 +1,707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\thankyoupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\thankyoupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\thankyoupage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\thankyoupage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\feedbackpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\feedbackpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\feedbacklistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\feedbacklistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\feedbackmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\feedbackmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\feedbackpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\feedbackpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EDFD4-D124-4C41-8286-A8CDB4DE6DF1}|JimmysKiosk\\JimmysKiosk.Android\\JimmysKiosk.Android.csproj|C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\jimmyskiosk\\jimmyskiosk.android\\properties\\androidmanifest.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D51EDFD4-D124-4C41-8286-A8CDB4DE6DF1}|JimmysKiosk\\JimmysKiosk.Android\\JimmysKiosk.Android.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk.android\\properties\\androidmanifest.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EDFD4-D124-4C41-8286-A8CDB4DE6DF1}|JimmysKiosk\\JimmysKiosk.Android\\JimmysKiosk.Android.csproj|C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\jimmyskiosk\\jimmyskiosk.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EDFD4-D124-4C41-8286-A8CDB4DE6DF1}|JimmysKiosk\\JimmysKiosk.Android\\JimmysKiosk.Android.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\orderlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\orderlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\orderlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\orderlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\feedbacklistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\feedbacklistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\jimmyskiosk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\jimmyskiosk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\paymentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\paymentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\paymentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\paymentpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\beveragepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\beveragepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\viewcartpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\viewcartpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\viewcartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\viewcartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\lunchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\lunchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\dinnerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\dinnerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\lunchpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\lunchpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\breakfastpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\breakfastpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\breakfastpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\breakfastpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\beveragepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\beveragepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\dinnerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\dinnerpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51EDFD4-D124-4C41-8286-A8CDB4DE6DF1}|JimmysKiosk\\JimmysKiosk.Android\\JimmysKiosk.Android.csproj|C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\jimmyskiosk\\jimmyskiosk.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EDFD4-D124-4C41-8286-A8CDB4DE6DF1}|JimmysKiosk\\JimmysKiosk.Android\\JimmysKiosk.Android.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|c:\\users\\sagun\\desktop\\jimmy kiosk\\jimmyskiosk\\jimmyskiosk\\beveragepage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB682F41-816B-42CC-8958-6BA66688BD5C}|JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj|solutionrelative:jimmyskiosk\\jimmyskiosk\\beveragepage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\Services\\FeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T00:53:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackModel.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\FeedbackModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackModel.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\FeedbackModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:44:07.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\PaymentService.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:17:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedbackPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:50:27.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThankYouPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:22:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-27T04:41:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\FeedbackPage.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-23T01:50:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\OrderModel.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\OrderModel.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:14:20.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:57:34.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedbackListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:10:16.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThankYouPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\ThankYouPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T13:22:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\Services\\OrderService.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:54:32.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentViewModel.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\PaymentViewModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentViewModel.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\PaymentViewModel.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwGEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:34:21.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\PaymentModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentModel.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\PaymentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:41:57.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FeedbackViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackViewModel.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\FeedbackViewModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackViewModel.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\FeedbackViewModel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:47:23.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk.Android\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk.Android\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk.Android\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk.Android\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T03:23:35.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:19:15.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\OrderListPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T14:19:02.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FeedbackListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\FeedbackListPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T14:10:05.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:04:33.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JimmysKiosk.csproj",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\JimmysKiosk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-22T17:12:51.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml",
+              "ViewState": "AgIAAFoAAAAAAAAAAIBZwHAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T16:53:14.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\App.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\App.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:50:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\App.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\App.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\App.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T19:06:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:54:53.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\PaymentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:04:25.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\MenuItem.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\MenuItem.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\MenuItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:59:12.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ViewCartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:03:43.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BeveragePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:23:52.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewCartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\ViewCartPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:03:54.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LunchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\LunchPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\LunchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\LunchPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\LunchPage.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:00:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LunchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\LunchPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\LunchPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\LunchPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\LunchPage.xaml",
+              "ViewState": "AgIAAEUAAAAAAAAAACBjwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:00:22.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DinnerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:02:09.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\CartManager.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\CartManager.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\CartManager.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\CartManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:58:33.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BreakfastPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:56:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BreakfastPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\BreakfastPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T16:55:57.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BeveragePage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAtwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:54:22.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DinnerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\DinnerPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:01:05.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk.Android\\MainActivity.cs",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:07:22.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BeveragePage.xaml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "RelativeDocumentMoniker": "JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\Jimmy Kiosk\\JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "RelativeToolTip": "JimmysKiosk\\JimmysKiosk\\BeveragePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:23:41.782Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

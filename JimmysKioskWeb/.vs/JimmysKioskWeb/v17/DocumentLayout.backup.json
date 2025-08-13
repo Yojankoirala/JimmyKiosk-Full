@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\models\\feedbackmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\models\\feedbackmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\feedbacks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\feedbacks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\feedbacks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\feedbacks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\feedbacks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\views\\feedbacks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\views\\feedbacks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\jimmyskioskweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\jimmyskioskweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\migrations\\20250727014212_initiala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\migrations\\20250727014212_initiala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\jimmyskioskweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\jimmyskioskweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\controllers\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\controllers\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\migrations\\20250727013821_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\migrations\\20250727013821_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\migrations\\20250727020453_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\migrations\\20250727020453_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\migrations\\20250727054012_updateordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\migrations\\20250727054012_updateordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\migrations\\20250727124308_initialnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\migrations\\20250727124308_initialnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|c:\\users\\sagun\\desktop\\jimmyskioskweb\\jimmyskioskweb\\migrations\\20250727054314_initialall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5F96B-AB61-4A7A-B6EA-C004D9FEC4C2}|JimmysKioskWeb\\JimmysKioskWeb.csproj|solutionrelative:jimmyskioskweb\\migrations\\20250727054314_initialall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAApwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:15:18.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JimmysKioskWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T03:13:05.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Models\\FeedbackModel.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Models\\FeedbackModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Models\\FeedbackModel.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Models\\FeedbackModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:07:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:14:10.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Models\\OrderModel.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:12:05.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T13:23:45.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T13:23:28.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250727124308_InitialNew.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727124308_InitialNew.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Migrations\\20250727124308_InitialNew.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727124308_InitialNew.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Migrations\\20250727124308_InitialNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:43:08.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250727054314_initialall.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727054314_initialall.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Migrations\\20250727054314_initialall.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727054314_initialall.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Migrations\\20250727054314_initialall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:43:14.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Create.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Feedbacks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Create.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Feedbacks\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T04:50:56.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T05:07:40.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Feedbacks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Edit.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Feedbacks\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T04:50:54.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T04:02:40.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250727054012_UpdateOrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727054012_UpdateOrderModel.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Migrations\\20250727054012_UpdateOrderModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727054012_UpdateOrderModel.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Migrations\\20250727054012_UpdateOrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:40:12.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\AppDbContext.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA6wA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:04:58.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Feedbacks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Feedbacks\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T04:59:09.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Feedbacks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Delete.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Feedbacks\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T04:57:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Views\\Feedbacks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Views\\Feedbacks\\Details.cshtml",
+              "RelativeToolTip": "JimmysKioskWeb\\Views\\Feedbacks\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T04:58:32.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JimmysKioskWeb",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "RelativeToolTip": "JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-27T03:09:22.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250727020453_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727020453_initiall.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Migrations\\20250727020453_initiall.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727020453_initiall.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Migrations\\20250727020453_initiall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:04:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250727014212_Initiala.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727014212_Initiala.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Migrations\\20250727014212_Initiala.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727014212_Initiala.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Migrations\\20250727014212_Initiala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:42:12.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\appsettings.json",
+              "RelativeToolTip": "JimmysKioskWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T15:01:19.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Program.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Program.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:05:50.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JimmysKioskWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "RelativeToolTip": "JimmysKioskWeb\\JimmysKioskWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-27T01:26:00.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250727013821_initial.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727013821_initial.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Migrations\\20250727013821_initial.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Migrations\\20250727013821_initial.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Migrations\\20250727013821_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:38:21.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:14:50.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "JimmysKioskWeb\\Controllers\\PaymentModel.cs",
+              "ToolTip": "C:\\Users\\sagun\\Desktop\\JimmysKioskWeb\\JimmysKioskWeb\\Controllers\\PaymentModel.cs",
+              "RelativeToolTip": "JimmysKioskWeb\\Controllers\\PaymentModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:17:38.331Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

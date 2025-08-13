@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JimmysKiosk.OrderListPage"
+             Title="Order History">
+
+    <StackLayout Padding="10">
+        <Label Text="Order History"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               Margin="0,10,0,10" />
+
+        <!-- 🧹 Clear Button -->
+        <Button Text="Clear All Orders"
+                BackgroundColor="Red"
+                TextColor="White"
+                Clicked="OnClearOrdersClicked"
+                Margin="0,0,0,10"/>
+
+        <!-- 📋 Orders List -->
+        <ListView x:Name="OrderList" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding ItemsSummary}" FontAttributes="Bold" />
+                            <Label Text="{Binding TotalAmount, StringFormat='Total: ${0:F2}'}" />
+                            <Label Text="{Binding Timestamp}" FontSize="Micro" TextColor="Gray" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

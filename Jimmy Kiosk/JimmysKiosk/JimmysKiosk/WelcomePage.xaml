@@ -1,0 +1,118 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JimmysKiosk.WelcomePage"
+             Title="Welcome">
+
+    <!-- Gradient background for the page -->
+    <ContentPage.Background>
+        <LinearGradientBrush EndPoint="0,1">
+            <GradientStop Color="#4e54c8" Offset="0.0" />
+            <GradientStop Color="#8f94fb" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <StackLayout Padding="30" Spacing="20" VerticalOptions="CenterAndExpand">
+
+           
+            <Frame HeightRequest="90" WidthRequest="90" BackgroundColor="#f5f5f5" CornerRadius="30" HorizontalOptions="Center" VerticalOptions="Center">
+                <!--Adding our logo-->
+
+                <Image Source="jimmyslogo.jpg" Aspect="AspectFill" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+            </Frame>
+
+
+            <!-- Welcome text -->
+            <Label Text="Welcome to"
+                   FontSize="Medium"
+                   TextColor="White"
+                   HorizontalOptions="Center"/>
+            <Label Text="Jimmy's Kiosk"
+                   FontSize="32"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center"/>
+            <Label Text="Delicious meals, made fresh daily"
+                   FontSize="Medium"
+                   TextColor="#e0e0e0"
+                   HorizontalOptions="Center"/>
+
+            <!-- 2x2 grid for menu options and  a row for View Cart -->
+            <Grid ColumnSpacing="20" RowSpacing="20" Padding="0,30,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <!-- Row for View Cart -->
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Breakfast Button -->
+                <Button Grid.Row="0" Grid.Column="0"
+                        Clicked="OnBreakfastClicked"
+                        BackgroundColor="#ff7e5f"
+                        CornerRadius="20"
+                        HeightRequest="110"
+                        Text="☀️&#10;Breakfast&#10;Start your day right"
+                        TextColor="White"
+                        FontSize="18"
+                        FontAttributes="Bold"
+                        Padding="0"
+                        />
+                <!-- Lunch Button -->
+                <Button Grid.Row="0" Grid.Column="1"
+                        Clicked="OnLunchClicked"
+                        BackgroundColor="#43cea2"
+                        CornerRadius="20"
+                        HeightRequest="110"
+                        Text="🌟&#10;Lunch&#10;Midday favorites"
+                        TextColor="White"
+                        FontSize="18"
+                        FontAttributes="Bold"
+                        Padding="0"
+                        />
+                <!-- Dinner Button -->
+                <Button Grid.Row="1" Grid.Column="0"
+                        Clicked="OnDinnerClicked"
+                        BackgroundColor="#4e54c8"
+                        CornerRadius="20"
+                        HeightRequest="110"
+                        Text="🌙&#10;Dinner&#10;Evening delights"
+                        TextColor="White"
+                        FontSize="18"
+                        FontAttributes="Bold"
+                        Padding="0"
+                        />
+                <!-- Beverages Button -->
+                <Button Grid.Row="1" Grid.Column="1"
+                        Clicked="OnBeverageClicked"
+                        BackgroundColor="#ffb347"
+                        CornerRadius="20"
+                        HeightRequest="110"
+                        Text="🥤&#10;Beverages&#10;Refresh yourself"
+                        TextColor="White"
+                        FontSize="18"
+                        FontAttributes="Bold"
+                        Padding="0"
+                        />
+                <!-- View Cart Button, spanning both columns -->
+                <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+                        Clicked="OnViewCartClicked"
+                        BackgroundColor="#cccccc"
+                        CornerRadius="20"
+                        HeightRequest="60"
+                        Text="🛒 View Cart"
+                        TextColor="#333"
+                        FontSize="20"
+                        FontAttributes="Bold"
+                        Margin="0,10,0,0"
+                        />
+                
+
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

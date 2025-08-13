@@ -1,0 +1,40 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="JimmysKiosk.PaymentPage"
+             Title="Payment">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <Label Text="Full Name" FontAttributes="Bold" />
+            <Entry Placeholder="John Doe" Text="{Binding FullName}" />
+
+            <Label Text="Card Number" FontAttributes="Bold" />
+            <Entry Placeholder="1234 5678 9012 3456"
+                   Keyboard="Numeric"
+                   Text="{Binding CardNumber}" />
+
+            <Label Text="Expiry Date" FontAttributes="Bold" />
+            <Entry Placeholder="MM/YY" Text="{Binding ExpiryDate}" />
+
+            <Label Text="CVV" FontAttributes="Bold" />
+            <Entry Placeholder="123"
+                   IsPassword="True"
+                   Keyboard="Numeric"
+                   Text="{Binding CVV}" />
+
+            <Button Text="Pay Now"
+                    BackgroundColor="Green"
+                    TextColor="White"
+                    Command="{Binding PayCommand}" />
+
+            <Label Text="{Binding PaymentStatus}" 
+                   TextColor="Red" 
+                   FontAttributes="Italic" />
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

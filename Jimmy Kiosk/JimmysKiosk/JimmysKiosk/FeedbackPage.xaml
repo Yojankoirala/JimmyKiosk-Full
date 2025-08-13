@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JimmysKiosk.FeedbackPage"
+             Title="Feedback"
+             BackgroundColor="White">
+
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="15">
+            <Label Text="Leave Your Feedback"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <Entry x:Name="NameEntry"
+                   Placeholder="Your Name" />
+
+            <Editor x:Name="MessageEditor"
+                    Placeholder="Your Feedback"
+                    HeightRequest="100" />
+
+            <Label x:Name="StatusLabel"
+                   TextColor="Green"
+                   FontAttributes="Italic"
+                   IsVisible="False" />
+
+            <Button Text="SUBMIT FEEDBACK"
+                    BackgroundColor="Green"
+                    TextColor="White"
+                    Clicked="OnSubmitClicked" />
+
+            <Button Text="SKIP FEEDBACK"
+                    BackgroundColor="LightGray"
+                    TextColor="Black"
+                    Clicked="OnSkipClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

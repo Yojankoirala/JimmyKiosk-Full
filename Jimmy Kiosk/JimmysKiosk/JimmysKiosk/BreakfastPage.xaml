@@ -1,0 +1,121 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JimmysKiosk.BreakfastPage"
+             Title="Breakfast Menu">
+
+    <ContentPage.Resources>
+        <!-- Define styles for UI elements -->
+        <Style x:Key="CardStyle" TargetType="Frame">
+            <Setter Property="CornerRadius" Value="12"/>
+            <!-- Rounded corners for the card -->
+            <Setter Property="Padding" Value="15"/>
+            <!-- Padding inside the card -->
+            <Setter Property="Margin" Value="0,10"/>
+            <!-- Margin around the card -->
+            <Setter Property="BackgroundColor" Value="White"/>
+            <!-- Background color of the card -->
+            <Setter Property="HasShadow" Value="True"/>
+            <!-- Enable shadow for the card -->
+        </Style>
+        <Style x:Key="AddToCartButtonStyle" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="#232F34"/>
+            <!-- Background color for the button -->
+            <Setter Property="TextColor" Value="White"/>
+            <!-- Text color for the button -->
+            <Setter Property="CornerRadius" Value="8"/>
+            <!-- Rounded corners for the button -->
+            <Setter Property="Margin" Value="0,10,0,0"/>
+            <!-- Margin around the button -->
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <!-- Bold text for the button -->
+        </Style>
+        <Style x:Key="QuantityButtonStyle" TargetType="Button">
+            <Setter Property="WidthRequest" Value="40"/>
+            <!-- Width of the quantity buttons -->
+            <Setter Property="HeightRequest" Value="40"/>
+            <!-- Height of the quantity buttons -->
+            <Setter Property="CornerRadius" Value="20"/>
+            <!-- Rounded corners for the quantity buttons -->
+            <Setter Property="BackgroundColor" Value="#F0F0F0"/>
+            <!-- Background color for the quantity buttons -->
+            <Setter Property="TextColor" Value="#333"/>
+            <!-- Text color for the quantity buttons -->
+            <Setter Property="FontSize" Value="20"/>
+            <!-- Font size for the quantity buttons -->
+        </Style>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="10">
+
+            <!-- Header Section -->
+            <Frame BackgroundColor="#F85C50" CornerRadius="16" Padding="20" Margin="0,0,0,10" HasShadow="False">
+                <StackLayout>
+                    <Label Text="🍳 Breakfast Menu"
+                           FontSize="28"
+                           FontAttributes="Bold"
+                           TextColor="White"
+                           HorizontalOptions="Center"/>
+                    <!-- Title of the page -->
+                    <Label Text="Start your day with our specials!"
+                           FontSize="16"
+                           TextColor="White"
+                           HorizontalOptions="Center"/>
+                    <!-- Subtitle of the page -->
+                </StackLayout>
+            </Frame>
+
+            <!-- Menu Items Collection -->
+            <CollectionView x:Name="BreakfastCollectionView"
+                            ItemsSource="{Binding BreakfastItems}"
+                            SelectionMode="None">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Style="{StaticResource CardStyle}">
+                            <StackLayout>
+                                <StackLayout Orientation="Horizontal" Spacing="10">
+                                    <Label Text="{Binding Icon}" FontSize="36"/>
+                                    <!-- Icon for the menu item -->
+                                    <StackLayout>
+                                        <Label Text="{Binding Name}" FontSize="18" FontAttributes="Bold"/>
+                                        <!-- Name of the menu item -->
+                                        <Label Text="{Binding Description}" FontSize="14" TextColor="#888"/>
+                                        <!-- Description of the menu item -->
+                                        <Label Text="{Binding Price}" FontSize="16" TextColor="#3EC6E0"/>
+                                        <!-- Price of the menu item -->
+                                    </StackLayout>
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal" Spacing="10" VerticalOptions="Center" Margin="0,10,0,0">
+                                    <Button Text="-" Style="{StaticResource QuantityButtonStyle}" Clicked="OnDecreaseQuantityClicked" CommandParameter="{Binding .}" />
+                                    <!-- Decrease quantity button -->
+                                    <Label Text="{Binding Quantity}" FontSize="18" WidthRequest="40" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                                    <!-- Display current quantity -->
+                                    <Button Text="+" Style="{StaticResource QuantityButtonStyle}" Clicked="OnIncreaseQuantityClicked" CommandParameter="{Binding .}" />
+                                    <!-- Increase quantity button -->
+                                </StackLayout>
+                                <Button Text="ADD TO CART"
+                                        Style="{StaticResource AddToCartButtonStyle}"
+                                        CommandParameter="{Binding .}"
+                                        Clicked="OnAddToCartClicked"/>
+                                <!-- Button to add item to cart -->
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <!-- View Cart Button -->
+            <Button Text="VIEW CART"
+                    BackgroundColor="#3EC6E0"
+                    TextColor="White"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                    CornerRadius="10"
+                    Margin="0,20,0,0"
+                    HeightRequest="50"
+                    Clicked="OnViewCartClicked"/>
+            <!-- Button to navigate to the cart page -->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
